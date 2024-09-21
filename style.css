@@ -1,6 +1,9 @@
-.navbar{
-    background-color: #435373;
+.navbar {
+  background-color: #435373;
 }
-.nav-link{
-    color: #ffffff!important;}
-    
+.nav-link {
+  color: #ffffff !important;
+}
+.bg-dark {
+  background-color: #435373 !important;
+}
